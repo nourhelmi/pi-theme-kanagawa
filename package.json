@@ -1,0 +1,18 @@
+{
+  "name": "pi-theme-kanagawa",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Kanagawa theme for the pi coding agent — ink-dark background, fuji-white text, gold borders, surimi-orange accents",
+  "keywords": ["pi", "pi-package", "pi-theme", "kanagawa", "theme"],
+  "license": "MIT",
+  "author": "Nour Helmi",
+  "homepage": "https://github.com/nourhelmi/pi-theme-kanagawa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nourhelmi/pi-theme-kanagawa.git"
+  },
+  "files": ["themes/", "README.md"],
+  "pi": {
+    "themes": ["./themes"]
+  }
+}
