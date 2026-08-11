@@ -1,5 +1,7 @@
 # pi-theme-kanagawa
 
+Two gold-accented dark themes for the [pi](https://github.com/earendil-works/pi) coding agent: **kanagawa** (ink + cream, softer) and **tokyo-night** (blue-dark + bright `#c0caf5` text, higher contrast — gold `#e0af68` borders).
+
 [Kanagawa](https://github.com/rebelot/kanagawa.nvim) for the [pi](https://github.com/earendil-works/pi) coding agent: ink-dark background (`#1F1F28`), fuji-white text, gold borders (`#C0A36E`), surimi-orange accents.
 
 Pairs with herdr's built-in `kanagawa` theme for a matching multiplexer:
